@@ -1,7 +1,4 @@
-# Starter Web Repo
+# Flipbook
 
-This repository is for showing how Git and GitHub work
+First try for OTS
 
-## Purpose
-
-Sample website with plenty of files for demos
